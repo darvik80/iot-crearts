@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a194f858-aa11-485c-841b-cf4733dc09f6" name="crearts.xyz" url="http://iot.crearts.xyz">
+        <fileTransfer accessType="SFTP" host="crearts.xyz" port="22" sshConfigId="634184c6-4da6-4715-8d16-d154813f1eb0" sshConfig="darvik@crearts.xyz:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="darvik@crearts.xyz:22" type="ssh/sftp" uuid="cabcdd59-3314-4c47-8133-154caa876953">
+        <config>
+          <option name="projectRootOnTarget" value="/home/darvik/iot-crearts" />
+          <option name="serverName" value="darvik@crearts.xyz:22 agent" />
+          <option name="useRsync" value="true" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config />
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
