@@ -3,7 +3,7 @@ module github.com/darvik80/iot-crearts
 go 1.18
 
 require (
-	github.com/gorilla/mux v1.8.0
+	github.com/go-chi/chi/v5 v5.0.7
 	github.com/sirupsen/logrus v1.9.0
 )
 
